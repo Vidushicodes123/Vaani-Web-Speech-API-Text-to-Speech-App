@@ -88,10 +88,17 @@ Enter text → select voice → click Speak
 
 # 🌍 Browser Compatibility
 Browser	Support
-Chrome	✅ Full
-Edge	✅ Full
-Firefox	⚠ Limited voices
-Safari	⚠ Partial support
+Chrome-->	✅ Full
+
+
+Edge--> ✅ Full
+
+
+Firefox-->	⚠ Limited voices
+
+
+Safari-->	⚠ Partial support
+
 
 Voice availability depends on OS and browser engine.
 
