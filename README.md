@@ -1,7 +1,7 @@
-# Vaani-Web-Speech-API-Text-to-Speech-App
+# Vaani-Web-Speech-API-Text-to-Speech-Narrator
 A modern, responsive Text-to-Speech web application built using the Web Speech API, allowing users to convert written text into natural-sounding speech with customizable voices, speed, and pitch — all wrapped in a sleek purple-themed UI with enhanced UX interactions.
 
-Key Features
+# Key Features
 
 🔊 Text to Speech conversion
 
@@ -21,17 +21,16 @@ Key Features
 
 📱 Fully responsive (mobile + desktop)
 
-Technologies Used
+# Technologies Used
 Technology	
 HTML5-->	Page structure
 CSS3-->	Styling, animations, responsiveness
 JavaScript (ES6)-->	App logic & event handling
 Web Speech API-->	Speech synthesis
 
-text-to-speech-app/
+text-to-speech-app/|
 
 
-│
 ├── index.html        # Main HTML structure
 
 
@@ -47,7 +46,7 @@ text-to-speech-app/
 └── screenshots/      # App screenshots
 
 
-How the Interface Works (Technical Overview)
+# How the Interface Works (Technical Overview)
 
 User inputs text in the textarea
 
@@ -75,7 +74,7 @@ Status → Speaking / Ready / Stopped
 
 Buttons enabled/disabled accordingly
 
-▶️ How to Run Locally
+# ▶️ How to Run Locally
 
 Clone the repository or download ZIP
 
@@ -87,7 +86,7 @@ Enter text → select voice → click Speak
 ✅ No installation
 ✅ No build tools
 
-🌍 Browser Compatibility
+# 🌍 Browser Compatibility
 Browser	Support
 Chrome	✅ Full
 Edge	✅ Full
@@ -96,7 +95,7 @@ Safari	⚠ Partial support
 
 Voice availability depends on OS and browser engine.
 
-⚠️ Known Limitations
+# ⚠️ Known Limitations
 
 Voice list differs across browsers
 
@@ -106,13 +105,13 @@ Speech output cannot be downloaded as audio
 
 Some voices load asynchronously (handled via onvoiceschanged)
 
-❤️ Author
+# ❤️ Author
 
 Vidushi Shandilya
 
 Built with curiosity, late-night debugging, and purple aesthetics 💜
 
-📜 License
+# 📜 License
 
 This project is open-source and free for educational and personal use.
 
