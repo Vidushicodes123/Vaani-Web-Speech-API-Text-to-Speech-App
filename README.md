@@ -29,12 +29,23 @@ JavaScript (ES6)-->	App logic & event handling
 Web Speech API-->	Speech synthesis
 
 text-to-speech-app/
+
+
 │
 ├── index.html        # Main HTML structure
+
+
 ├── style.css         # UI styling (purple theme)
+
+
 ├── app.js            # Speech logic & controls
+
+
 ├── README.md         # Documentation
+
+
 └── screenshots/      # App screenshots
+
 
 How the Interface Works (Technical Overview)
 
